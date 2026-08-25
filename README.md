@@ -80,13 +80,15 @@ Fréquence du décompte pendant qu'un craft est en cours.
 
 ---
 
-## 3. Où sont stockées les données
+## 3. Dépendance obligatoire
 
-Les points de craft sont sauvegardés dans la base SQLite partagée de ModKit :
+### ModKit
 
-```
-[Nova-Life]\Servers\<nom_de_ton_serveur>\Plugins\ModKit\data.sqlite
-```
+Dinocraftpoint nécessite **ModKit** pour fonctionner.
+
+Téléchargement de ModKit :
+
+https://plugins.modnl.me/plugins
 ---
 
 Si vous avez des question merci de MP : py0ui sur discord 
