@@ -91,4 +91,10 @@ https://plugins.modnl.me/plugins
 
 ---
 
-Si vous avez des question merci de MP : py0ui sur discord 
+## 4. Support
+
+Si vous avez des questions ou rencontrez un problème avec le plugin, vous pouvez contacter :
+
+Discord : py0ui
+Serveur discord : https://discord.gg/2cwRtZTjM5 et ou https://discord.gg/KnRR4GYpQV
+
