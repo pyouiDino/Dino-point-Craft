@@ -87,8 +87,8 @@ Fréquence du décompte pendant qu'un craft est en cours.
 Dinocraftpoint nécessite **ModKit** pour fonctionner.
 
 Téléchargement de ModKit :
-
 https://plugins.modnl.me/plugins
+
 ---
 
 Si vous avez des question merci de MP : py0ui sur discord 
